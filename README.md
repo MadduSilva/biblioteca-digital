@@ -2,7 +2,7 @@
 <h1 align="center" id="project_name">
   <br />
   Biblioteca Digital
-  <br />
+  <br /><br />
   <img src="biblioteca-home.png" alt="Logo" width="50%">
   <br />
 </h1>
